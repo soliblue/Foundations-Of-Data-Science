@@ -4,7 +4,6 @@ This repository contains a collection of algorithms developed while attending th
 
 ## Algorithms
 
-- **Machine-Learning:** A machine learning algorithm for predicting outcomes based on data.
 - **Perceptron:** An algorithm for training a binary classifier using a single layer neural network.
 - **k-Nearest Neighbour:** A non-parametric method for classification or regression based on nearest neighbors.
 - **Weighted Majority (deterministic):** An algorithm for making predictions based on a weighted majority of expert opinions.
